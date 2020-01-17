@@ -4,23 +4,24 @@
 &nbsp;  
 *This repository stores the lessons and presentations of the course held on July 6th-10th 20 at the University of Aveiro, Aveiro, Portugal*  
 
-
-
 * **[Program](https://github.com/feurbano/data_management_2020/blob/master/program.md)**
 * **[Schedule](https://github.com/feurbano/data_management_2020/blob/master/schedule.md)**
+* **[Data](https://github.com/feurbano/data_management_2020/raw/master/sections/data/tracking_db.zip)**
+
+
 * Section 1: **[Introduction to Data Management in Animal Ecology](https://github.com/feurbano/data_management_/tree/master/sections/section_1)**
 * Section 2: **[SQL and Spatial SQL](https://github.com/feurbano/data_management_2020/tree/master/sections/section_2)**
 * Section 3:  **[Storing an Ecological Dataset into a Database](https://github.com/feurbano/data_management_2020/tree/master/sections/section_3)**
 * Section 4: **[Movement Ecology Data Management in PostgreSQL/PostGIS](https://github.com/feurbano/data_management_2020/blob/master/sections/section_4)**
-* **[Flash talks from students](https://github.com/feurbano/data_management_2020/tree/master/sections/flash_talks)**
-* **[Data](https://github.com/feurbano/data_management_2020/raw/master/sections/data/tracking_db.zip)**  
+* **Flash Talks from Students**
+
 &nbsp;  
 
 ---
 
 &nbsp;  
 
-#### NOTES -  to be discussed with Francesca
+### NOTES -  to be discussed with Francesca
 * Section 3 is new and is mainly a practical section: given a real dataset, explore it, clean it, import it into a database. with a recap exercise based on another file to be processed. In my opinion this is the most interesting part for most of the students.
 * I also removed R from the program. In my opinion it makes sense, but in case we can reintroduce a module of two hours, to be confirmed.
 * Flash talks section has to be confirmed. No problem for me, I do not remember if during last summer school was successful or not.
