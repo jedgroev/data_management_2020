@@ -10,7 +10,7 @@
 11.15-12.00: Introduction to Data Management and Spatial Database (Urbano)  
 12.00-13.00: Installation of PostgreSQL/PostGIS and Connection to the DB (?)  
 *13.00-14.00: Lunch*  
-14.00-15.00: Exploration of Main Database Features through pgAdmin Interface (Urbano)  
+14.00-15.00: Exploration of the main Database Features through pgAdmin Interface (Urbano)  
 15.00-18.00: SQL and Spatial SQL (Urbano & ?)  
 *18.00-18.30: Science Happy Hour: Flash Talks from Students*
 </td>

@@ -7,7 +7,7 @@
  1.2 Introduction to Data Management and Spatial Database  
  1.3 Installation of PostgreSQL/PostGIS and pgAdmin  
  1.4 Connection to the database tracking_db  
- 1.5 Exploration of Database Objects through pgAdmin Interface   
+ 1.5 Exploration of the main Database Features through pgAdmin Interface   
 
 2. **SQL and Spatial SQL** (Urbano & ??? - 15 hours)  
  2.1 Introduction to SQL  
