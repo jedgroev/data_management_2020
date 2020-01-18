@@ -7,8 +7,6 @@
 * **[Program](https://github.com/feurbano/data_management_2020/blob/master/program.md)**
 * **[Schedule](https://github.com/feurbano/data_management_2020/blob/master/schedule.md)**
 * **[Data](https://github.com/feurbano/data_management_2020/raw/master/sections/data/tracking_db.zip)**
-
-
 * Section 1: **[Introduction to Data Management in Animal Ecology](https://github.com/feurbano/data_management_/tree/master/sections/section_1)**
 * Section 2: **[SQL and Spatial SQL](https://github.com/feurbano/data_management_2020/tree/master/sections/section_2)**
 * Section 3:  **[Storing an Ecological Dataset into a Database](https://github.com/feurbano/data_management_2020/tree/master/sections/section_3)**
