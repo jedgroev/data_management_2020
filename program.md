@@ -3,7 +3,7 @@
 ---
 &nbsp;  
 1. **Introduction to Data Management in Animal Ecology** (Urbano & Cagnacci - 3.5 hours)  
- 1.1 Animal ecology data: challenges and opportunities  
+ 1.1 Animal ecology data: challenges and opportunities [?]  
  1.2 Introduction to Data Management and Spatial Database  
  1.3 Installation of PostgreSQL/PostGIS and pgAdmin  
  1.4 Connection to the database tracking_db  
@@ -33,8 +33,9 @@
  2.21 Calculate distance between points and length of a trajectory  
  2.22 Create a polygon from points (convex hull)  
  2.23 Views  
- 2.24 Roles and permissions  
- 2.25 Database backup and restore  
+ 2.24 Data export  
+ 2.25 Roles and permissions  
+ 2.26 Database backup and restore  
 
 3. **Storing an Ecological Dataset into a Database**  (Urbano & ??? - 8 hours)  
  3.1 Exploring a typical spreadsheet with ecological data collected on the field  
@@ -57,11 +58,9 @@
  4.7 From locations to trajectories and home ranges  
  4.8 Integrating spatial ancillary information  
  4.9 Data quality: how to detect and manage outliers  
- 4.10 Data export  
- 4.11 Backup and restore of the db created in Section 2  
- 4.12 Recap exercises  
- 4.13 Raster Data in PostGIS (demo)  
- 4.14 Functions and triggers (supplementary material)  
+ 4.10 Recap exercises  
+ 4.11 Raster Data in PostGIS (demo)  
+ 4.12 Functions and triggers (supplementary material)  
 
 ---
 

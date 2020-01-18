@@ -6,7 +6,7 @@
 <td>
 
 09.00-10.30: Registration and Welcome Address  
-10.30-11.15: Animal Ecology Data: Challenges and Opportunities (Cagnacci)  
+10.30-11.15: Animal Ecology Data: Challenges and Opportunities [?] (Cagnacci)  
 11.15-12.00: Introduction to Data Management and Spatial Database (Urbano)  
 12.00-13.00: Installation of PostgreSQL/PostGIS and Connection to the DB (?)  
 *13.00-14.00: Lunch*  
