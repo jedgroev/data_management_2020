@@ -12,7 +12,7 @@
 *13.00-14.00: Lunch*  
 14.00-15.00: Exploration of the main Database Features through pgAdmin Interface (Urbano)  
 15.00-18.00: SQL and Spatial SQL (Urbano & ?)  
-*18.00-18.30: Science Happy Hour: Flash Talks from Students*
+*18.00-18.30: Science Happy Hour: Flash Talks from Students* [?]  
 </td>
 </tr>
 <tr><td>Tuesday, 7th July</td>
@@ -21,7 +21,7 @@
 09.00-13.00: SQL and Spatial SQL (Urbano & ?)  
 *13.00-14.00: Lunch*  
 14.00-18.00: SQL and Spatial SQL (Urbano & ?)  
-*18.00-18.30: Science Happy Hour: Flash Talks from Students*  
+*18.00-18.30: Science Happy Hour: Flash Talks from Students* [?]  
 </td>
 </tr>
 <tr><td>Wednesday, 8th July</td>
@@ -30,7 +30,7 @@
 09.00-13.00: SQL and Spatial SQL (Urbano & ?)  
 *13.00-14.00: Lunch*  
 14.00-18.00: Storing an Ecological Dataset into a Database (Urbano & ?)  
-*18.00-18.30: Science Happy Hour: Flash Talks from Students*  
+*18.00-18.30: Science Happy Hour: Flash Talks from Students*  [?]
 </td>
 </tr>
 <tr><td>Thursday, 9th July</td>
@@ -39,7 +39,7 @@
 09.00-13.00: Storing an Ecological Dataset into a Database (Urbano & ?)  
 *13.00-14.00: Lunch*  
 14.00-18.00: Movement Ecology Data Management in PostgreSQL/PostGIS (Urbano & ?)  
-*18.00-18.30: Science Happy Hour: Flash Talks from Students*  
+*18.00-18.30: Science Happy Hour: Flash Talks from Students*  [?]
 </td>
 </tr>
 <tr><td>Friday, 10th July</td>
@@ -47,7 +47,8 @@
 
 09.00-13.00: Movement Ecology Data Management in PostgreSQL/PostGIS (Urbano & ?)  
 *13.00-14.00: Lunch*  
-14.00-16.00: Wrapping up: Take home message and Questions  
+14.00-17.00: Resource Selection Analysis in Movement Ecology with R (van Loon)  
+17.00-18.00: Wrapping up: Take home message and Questions  
 </td>
 </tr>
 </table>

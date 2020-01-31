@@ -62,6 +62,4 @@
  4.11 Raster Data in PostGIS (demo)  
  4.12 Functions and triggers (supplementary material)  
 
----
-
-5. [???] **Movement Ecology Data Analysis with R** (Basille ??)
+5. **Resource Selection Analysis in Movement Ecology with R** (van Loon - 3 hours) [*to be confirmed*]  
