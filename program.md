@@ -9,7 +9,7 @@
  1.4 Connection to the database tracking_db  
  1.5 Exploration of the main Database Features through pgAdmin Interface   
 
-2. **SQL and Spatial SQL** (Urbano & ??? - 16 hours)  
+2. **SQL and Spatial SQL** (Urbano & ? - 14 hours)  
  2.1 Introduction to SQL  
  2.2 Overview of the database used for the exercises  
  2.3 Schemas, tables, data types  
@@ -37,8 +37,8 @@
  2.25 Roles and permissions  
  2.26 Database backup and restore  
 
-3. **Storing an Ecological Dataset into a Database**  (Urbano & ??? - 8 hours)  
- 3.1 Exploring a typical spreadsheet with ecological data collected on the field  
+3. **Storing an Ecological Dataset into a Database**  (Urbano & ? - 6 hours)  
+ 3.1 Exploring a typical spreadsheet with ecological data collected in the field  
  3.2 Identification and resolution of problems  
  3.3 Creation of a table structure in the Database  
  3.4 Import of dataset  
@@ -62,4 +62,4 @@
  4.11 Raster Data in PostGIS (demo)  
  4.12 Functions and triggers (supplementary material)  
 
-5. **Resource Selection Analysis in Movement Ecology with R** (van Loon - 3 hours) [*to be confirmed*]  
+5. **Resource Selection Analysis in Movement Ecology with R** (van Loon - 4 hours)  
