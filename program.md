@@ -2,14 +2,14 @@
 ### <p align="center">PROGRAM </p>  
 ---
 &nbsp;  
-1. **Introduction to Data Management in Animal Ecology** (Urbano & Cagnacci - 3.5 hours)  
+1. **Introduction to Data Management in Animal Ecology** (Urbano & Cagnacci - 3 hours)  
  1.1 Animal ecology data: challenges and opportunities [?]  
  1.2 Introduction to Data Management and Spatial Database  
  1.3 Installation of PostgreSQL/PostGIS and pgAdmin  
  1.4 Connection to the database tracking_db  
  1.5 Exploration of the main Database Features through pgAdmin Interface   
 
-2. **SQL and Spatial SQL** (Urbano & ??? - 15 hours)  
+2. **SQL and Spatial SQL** (Urbano & ??? - 16 hours)  
  2.1 Introduction to SQL  
  2.2 Overview of the database used for the exercises  
  2.3 Schemas, tables, data types  

@@ -5,13 +5,13 @@
 <tr><td>Monday, 6th July</td>
 <td>
 
-09.00-10.30: Registration and Welcome Address  
-10.30-11.15: Animal Ecology Data: Challenges and Opportunities [?] (Cagnacci)  
-11.15-12.00: Introduction to Data Management and Spatial Database (Urbano)  
-12.00-13.00: Installation of PostgreSQL/PostGIS and Connection to the DB (?)  
+09.00-10.00: Registration and Welcome Address  
+10.00-10.30: Animal Ecology Data: Challenges and Opportunities [?] (Cagnacci)  
+10.30-11.30: Introduction to Data Management and Spatial Database (Urbano)  
+11.30-12.00: Installation of PostgreSQL/PostGIS and Connection to the DB (?)  
+12.00-13.00: Exploration of the main Database Features through pgAdmin Interface (Urbano)  
 *13.00-14.00: Lunch*  
-14.00-15.00: Exploration of the main Database Features through pgAdmin Interface (Urbano)  
-15.00-18.00: SQL and Spatial SQL (Urbano & ?)  
+14.00-18.00: SQL and Spatial SQL (Urbano & ?)  
 *18.00-18.30: Science Happy Hour: Flash Talks from Students* [?]  
 </td>
 </tr>
@@ -47,7 +47,7 @@
 
 09.00-13.00: Movement Ecology Data Management in PostgreSQL/PostGIS (Urbano & ?)  
 *13.00-14.00: Lunch*  
-14.00-17.00: Resource Selection Analysis in Movement Ecology with R (van Loon)  
+14.00-17.00: Resource Selection Analysis in Movement Ecology with R (van Loon ?)  
 17.00-18.00: Wrapping up: Take home message and Questions  
 </td>
 </tr>
