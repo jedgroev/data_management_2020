@@ -1,10 +1,10 @@
-#### <p align="center">Data Management in Movement and Population Ecology - 2020</p>
+#### <p align="center">Data Management in Movement Ecology - 2020</p>
 ### <p align="center">PROGRAM </p>  
 ---
 &nbsp;  
 1. **Introduction to Data Management in Animal Ecology** (Urbano & Cagnacci - 3 hours)  
- 1.1 Animal ecology data: challenges and opportunities [?]  
- 1.2 Introduction to Data Management and Spatial Database  
+ 1.1 Animal ecology data: challenges and opportunities  
+ 1.2 Data Management and Spatial Database in Animal Ecology  
  1.3 Installation of PostgreSQL/PostGIS and pgAdmin  
  1.4 Connection to the database tracking_db  
  1.5 Exploration of the main Database Features through pgAdmin Interface   
@@ -37,7 +37,7 @@
  2.25 Roles and permissions  
  2.26 Database backup and restore  
 
-3. **Storing an Animal Ecology Dataset into a Database**  (Urbano & Semenzato - 6 hours)  
+3. **Cleaning and Storing an Ecological Dataset into a Database**  (Urbano & Semenzato - 6 hours)  
  3.1 Exploring a typical spreadsheet with ecological data collected in the field  
  3.2 Identification and resolution of problems  
  3.3 Creation of a table structure in the Database  
@@ -47,7 +47,7 @@
  3.7 Creation of views to assemble data for final users  
  3.8 Make a picture of the database data model with DBeaver  
 
-4. **Movement Ecology Data Management**  (Urbano & Semenzato - 6 hours)  
+4. **Movement Ecology Data Management in PostgreSQL/PostGIS**  (Urbano & Semenzato - 6 hours)  
  4.1 Introduction to the goals and the datasets  
  4.2 Create a database and import sensor data  
  4.3 Create acquisition timestamps, indexes and permissions  
@@ -61,4 +61,4 @@
  4.11 Raster Data in PostGIS (demo)  
  4.12 Functions and triggers (supplementary material)  
 
-5. **Resource Selection Analysis in Movement Ecology with R** (van Loon - 6 hours)  
+5. **Movement Ecology Data Analysis in R** (van Loon - 6 hours)  
