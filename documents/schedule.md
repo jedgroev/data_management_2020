@@ -1,6 +1,6 @@
-#### <p align="center">Data Management in Animal Ecology - 2020</p>  
+### <p align="center">Data Management in Animal Ecology - 2020</p>  
 
-## <p align="center">SCHEDULE</p>  
+# <p align="center">SCHEDULE</p>  
 
 &nbsp;
 

@@ -1,6 +1,6 @@
-#### <p align="center">Data Management in Movement Ecology - 2020</p>  
+### <p align="center">Data Management in Movement Ecology - 2020</p>  
 
-## <p align="center">PROGRAM</p>  
+# <p align="center">PROGRAM</p>  
 
 &nbsp;
 
