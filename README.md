@@ -6,12 +6,12 @@
 
 * **[Program](https://github.com/feurbano/data_management_2020/blob/master/documents/program.md)** - [PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_program.pdf)  
 * **[Schedule](https://github.com/feurbano/data_management_2020/blob/master/documents/schedule.md)** - [PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_schedule.pdf)
-* **[Data](https://github.com/feurbano/data_management_2020/raw/master/sections/data/tracking_db.zip)**
+* **[Data](https://github.com/feurbano/data_management_2020/blob/master/sections/data)**
 * **[Flash Talks from Students](https://github.com/feurbano/data_management_2020/blob/master/sections/talks)**
 * Section 1: **[Introduction to Data Management in Animal Ecology](https://github.com/feurbano/data_management_2020/tree/master/sections/section_1)**
-* Section 2: **[SQL and Spatial SQL](https://github.com/feurbano/data_management_2020/tree/master/sections/section_2)**
-* Section 3:  **[Cleaning and Storing an Ecological Dataset into a Database](https://github.com/feurbano/data_management_2020/tree/master/sections/section_3)**
-* Section 4: **[Movement Ecology Data Management in PostgreSQL/PostGIS](https://github.com/feurbano/data_management_2020/blob/master/sections/section_4)**
+* Section 2: **[SQL and Spatial SQL](https://github.com/feurbano/data_management_2020/tree/master/sections/section_2/lesson_02.md)**
+* Section 3:  **[Cleaning and Storing an Ecological Dataset into a Database](https://github.com/feurbano/data_management_2020/tree/master/sections/section_3/lesson_03.md)**
+* Section 4: **[Movement Ecology Data Management in PostgreSQL/PostGIS](https://github.com/feurbano/data_management_2020/blob/master/sections/section_4//lesson_04.md)**
 * Section 5: **[Movement Ecology Data Analysis in R](https://github.com/feurbano/data_management_2020/blob/master/sections/section_5)**
 
 

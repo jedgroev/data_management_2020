@@ -1,4 +1,4 @@
-### <p align="center">Data Management in Movement Ecology - 2020</p>  
+### <p align="center">4th EURODEER Summer School - Edition 2020</p>  
 
 # <p align="center">PROGRAM</p>  
 
@@ -41,13 +41,13 @@
 
 3. **Cleaning and Storing an Ecological Dataset into a Database**  (Urbano - 6 hours)  
  3.1 Exploring a typical spreadsheet with ecological data collected in the field  
- 3.2 Identification and resolution of problems  
+ 3.2 Identification of problems and data cleaning  
  3.3 Creation of a table structure in the Database  
- 3.4 Import of dataset  
+ 3.4 Import of the dataset into the database
  3.5 Consolidation of data and creation of constraints  
  3.6 Use of SQL to retrieve information  
  3.7 Creation of views to assemble data for final users  
- 3.8 Make a picture of the database data model with DBeaver  
+ 3.8 Document the DB and make a ER picture of the data model  
 
 4. **Movement Ecology Data Management in PostgreSQL/PostGIS**  (Urbano - 6 hours)  
  4.1 Introduction to the goals and the datasets  

@@ -1,4 +1,4 @@
-### <p align="center">Data Management in Animal Ecology - 2020</p>  
+### <p align="center">4th EURODEER Summer School - Edition 2020</p>  
 
 # <p align="center">SCHEDULE</p>  
 
