@@ -4,8 +4,8 @@
 &nbsp;  
 *This repository stores the lessons and presentations of the course that will be held on July 6th-10th 2020 at the University of Aveiro, Portugal*  
 
-* **[Program](https://github.com/feurbano/data_management_2020/blob/master/program.md)** - [PDF file](https://github.com/feurbano/data_management_2020/blob/master/pdf/COURSE_2020_program.pdf.md)  
-* **[Schedule](https://github.com/feurbano/data_management_2020/blob/master/schedule.md)** - [PDF file](https://github.com/feurbano/data_management_2020/blob/master/pdf/COURSE_2020_schedule.pdf)
+* **[Program](https://github.com/feurbano/data_management_2020/blob/master/documents/program.md)** - [PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_program.pdf)  
+* **[Schedule](https://github.com/feurbano/data_management_2020/blob/master/documents/schedule.md)** - [PDF file](https://github.com/feurbano/data_management_2020/blob/master/documents/pdf/COURSE_2020_schedule.pdf)
 * **[Data](https://github.com/feurbano/data_management_2020/raw/master/sections/data/tracking_db.zip)**
 * **[Flash Talks from Students](https://github.com/feurbano/data_management_2020/blob/master/sections/talks)**
 * Section 1: **[Introduction to Data Management in Animal Ecology](https://github.com/feurbano/data_management_2020/tree/master/sections/section_1)**
