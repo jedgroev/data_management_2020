@@ -7,9 +7,9 @@ Data management is increasingly becoming a necessary skill for ecologists, as ha
 This course has the objective to learn how to handle, model, store, and process in a robust and efficient way animal ecology data, and particularly the spatio-temporal information linked with movement data.  
 These objectives will be pursued through a hands-on, step by step approach during an intense one-week course with a mix of technical lectures and hands-on exercises to manage and manipulate ecological data typically used in Movement Ecology.  
 Proficiently following the course will provide participants with solid skills in management and analysis of ecological spatio-temporal data. At the end of the course the participants:  
-* will be capacitated to use (spatial) database to store and manage their ecological data sets;  
+* will be able to create a (spatial) database to store their ecological data set;  
 * will master SQL and spatial SQL to retrieve and process their data;  
-* will be able to use advanced animal movement database;  
+* will be able to manage advanced animal movement database;  
 * can use R in connection with a database to analyse their data.  
 
 #### VENUE  
