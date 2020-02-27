@@ -1,7 +1,7 @@
-<p float="center">
-  <img src="documents/images/logo_aveiro.png" height="50" />
-  <img src="documents/images/logo_fem.png" height="50" />
-  <img src="documents/images/logo_euromammals.png" height="30" />
+<p align="center">
+  <img src="documents/images/logo_aveiro.png" height="60" />
+  <img src="documents/images/logo_fem.png" height="60" />
+  <img src="documents/images/logo_euromammals.png" height="40" />
 </p>
 
 ### <p align="center">4th EURODEER Summer School - Edition 2020</p>
