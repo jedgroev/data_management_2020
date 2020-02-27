@@ -1,4 +1,4 @@
-<p align="center"> <img src="documents/images/logo_aveiro.png" height="60" /><img src="documents/images/logo_fem.png" height="60" /><img src="documents/images/logo_euromammals.png" height="60" /></p>
+<p align="center"> <img src="documents/images/logo_aveiro.png" height="70" /><img src="documents/images/logo_fem.png" height="70" /><img src="documents/images/logo_euromammals.png" height="70" /></p>
 
 ### <p align="center">4th EUROMAMMALS Summer School - University of Aveiro, Portugal <br>  July 6th - 10th, 2020</p>
 # <p align="center">Data Management in Movement Ecology 2020</p>  
