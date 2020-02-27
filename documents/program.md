@@ -43,7 +43,7 @@
  3.1 Exploring a typical spreadsheet with ecological data collected in the field  
  3.2 Identification of problems and data cleaning  
  3.3 Creation of a table structure in the Database  
- 3.4 Import of the dataset into the database
+ 3.4 Import of the dataset into the database  
  3.5 Consolidation of data and creation of constraints  
  3.6 Use of SQL to retrieve information  
  3.7 Creation of views to assemble data for final users  

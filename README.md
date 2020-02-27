@@ -1,6 +1,6 @@
 <p align="center"> <img src="documents/images/logo_aveiro.png" height="70" /><img src="documents/images/logo_fem.png" height="70" /><img src="documents/images/logo_euromammals.png" height="70" /></p>
 
-### <p align="center">4th EUROMAMMALS Summer School - University of Aveiro, Portugal <br>  July 6th - 10th, 2020</p>
+### <p align="center">4th Euromammals Summer School - University of Aveiro, Portugal <br>  July 6th - 10th, 2020</p>
 # <p align="center">Data Management in Movement Ecology 2020</p>  
 
 Data management is increasingly becoming a necessary skill for ecologists, as has already happened with statistics and GIS. This is especially true for movement ecology that can exploit data sets of ever increasing size, frequency and resolution from tagging techniques. These data come with complex associated information related to the animal characteristics, interactions and management and to the environmental context, such as population density, weather, habitat types and vegetation indexes based on remote sensing.  
@@ -13,7 +13,8 @@ Proficiently following the course will provide participants with solid skills in
 * can use R in connection with a database to analyse their data.  
 
 #### VENUE  
-[University of Aveiro](https://www.ua.pt/), [Department of Biology (Building 8](documents/images/2020_CampusAveiro.pdf)) - Portugal
+[University of Aveiro](https://www.ua.pt/), Portugal  
+[Department of Biology](documents/images/2020_CampusAveiro.pdf), (Building 8)
 
 #### DATES  
 **Summer School**: July 06th - 10th, 2020  
@@ -23,7 +24,7 @@ Proficiently following the course will provide participants with solid skills in
 #### ORGANIZERS  
 Carlos Fonseca, University of Aveiro  
 Rita Torres, University of Aveiro  
-Francesca Cagnacci, Research and Innovation Centre - Fondazione Edmund Mach  
+Francesca Cagnacci, Research and Innovation Centre - Edmund Mach Foundation  
 
 #### TEACHERS
 Ferdinando Urbano (environmental analyst, Euromammals)  
@@ -48,6 +49,8 @@ The detailed **schedule** is available [here](https://github.com/feurbano/data_m
 
 #### PARTICIPATION  
 This course targets PhD students, but participation of post-docs, researchers, managers and motivated MSc is also fostered. There will be room for a maximum of 25 participant.  
+We will ask that each course participant bring their own laptop computer.  
+All the software used during the course are open source ([PostgreSQL](https://www.postgresql.org/), [PostGIS](https://postgis.net/), [R](https://www.r-project.org/), [PgAdmin](https://www.pgadmin.org/), [QGIS](https://dbeaver.io/)).  
 #### FEES AND COSTS  
 Free for PhD students from Aveiro and Lisbon.  
 Students: 300€.  
