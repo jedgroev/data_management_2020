@@ -1,3 +1,9 @@
+<p float="center">
+  <img src="documents/images/logo_aveiro.png" height="50" />
+  <img src="documents/images/logo_fem.png" height="50" />
+  <img src="documents/images/logo_euromammals.png" height="30" />
+</p>
+
 ### <p align="center">4th EURODEER Summer School - Edition 2020</p>
 # <p align="center">Data Management in Movement Ecology</p>  
 
