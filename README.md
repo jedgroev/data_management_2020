@@ -9,7 +9,7 @@ These objectives will be pursued through a hands-on, step by step approach durin
 Proficiently following the course will provide participants with solid skills in management and analysis of ecological spatio-temporal data. At the end of the course the participants:  
 * will be able to create a (spatial) database to store their ecological data set;  
 * will master SQL and spatial SQL to retrieve and process their data;  
-* will be able to manage advanced animal movement database;  
+* will be able to manage an advanced animal movement database;  
 * can use R in connection with a database to analyse their data.  
 
 #### VENUE  
